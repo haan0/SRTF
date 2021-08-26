@@ -1,8 +1,3 @@
-/*
-	Alhanouf Almansour 43818027
-	Duaa Alyamani 438017294
-	Amal Almohawes 435028755 
-*/
 package srtf;
 
 
